@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+matplotlib
+tensorflow
+ydata-profiling
+numpy
+Flask
+mlflow 
+
