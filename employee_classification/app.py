@@ -6,7 +6,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the saved model
-model = joblib.load('notebook/best_model_MLP.pkl')
+model = joblib.load('best_model_MLP.pkl')
 
 @app.route('/')
 def index():
